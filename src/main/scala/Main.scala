@@ -57,7 +57,6 @@ object Main{
                 else print(grid(r)(c).toString)
             } 
     }
-
 }
 
 case class Cell(state: Int){
