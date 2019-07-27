@@ -1,5 +1,5 @@
 # Game of Life
-## Conway's Game of Life
+### Conway's Game of Life
 
 Running a Glider
 
